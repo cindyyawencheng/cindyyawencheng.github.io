@@ -12,6 +12,8 @@ footer: none
     {% capture home-intro %}
       {% include content/home-intro.md %}
     {% endcapture %}
+            <img class="avatar" src="{{ site.baseurl }}/img/IMG_5786.jpg" alt="your-photo" >
+        {{ home-home | markdownify }}
     {{ home-intro | markdownify }}
   </div>
 
@@ -24,8 +26,8 @@ footer: none
     </li>--> 
 
     <li class="tab-header-and-content">
-      <a href="#" class="tab-link">Home </a>
-      <div class="tab-content"> 
+      <a href="#" class="tab-link">Home</a>
+      <div class="tab-content "> 
         {% capture home-home %}
           {% include content/home-home.md %}
         {% endcapture %}

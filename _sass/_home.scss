@@ -31,7 +31,6 @@
     float: right;
     max-width: 25%;
     border: 3px solid $img-border-color;
-    @include box-shadow(1px -1px 6px 1px $img-shadow-color);
     @include border-radius(15%);
     margin-bottom: 1rem;
   }
@@ -74,6 +73,8 @@
     @include border-radius(3%);
   }
 
+
+
 }
 
 .featured-projects {
@@ -85,6 +86,9 @@
     margin-top: -.4rem;
       padding-left: 1rem;
   }
+
+
+
 }
 
 
