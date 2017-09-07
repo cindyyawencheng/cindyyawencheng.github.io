@@ -32,7 +32,7 @@ footer: none
         {{ home-home | markdownify }}
       </div>
     </li>
-    
+
     <li class="tab-header-and-content">
       <a href="#" class="tab-link">Research</a>
       <div class="tab-content featured-posts">
@@ -86,7 +86,7 @@ footer: none
     <li class="tab-header-and-content">
       <a href="#" class="tab-link">Contact</a>
       <div class="tab-content featured-posts">
-       <img class="contactpic" src="img/DSC_3293.jpg" alt="your-photo" align= 'right' height = 280>
+       <img class="contactpic" src="{{ site.baseurl }}/img/DSC_3293.jpg" alt="your-photo" align= 'right' height = 280>
         {% capture home-contact %}{% include content/home-contact.md %}{% endcapture %}
         {{ home-contact | markdownify }}
       </div>

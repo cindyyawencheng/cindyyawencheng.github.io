@@ -11,15 +11,19 @@ author:
   email:               "cindy.cheng@hfp.tum.de" # email here 
   avatar:              img/profile.jpg 
   profile-pic:         img/profile.jpg
-
+  github_username:      cindyyawencheng
 
 
 # Build settings
 markdown:            kramdown
-permalink:           /:title
+permalink:           
 sass:
   sass_dir:          _sass
   style:            :compressed
+
+
+kramdown:
+  input: GFM
 
 
 collections:
