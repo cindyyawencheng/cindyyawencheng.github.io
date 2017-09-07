@@ -73,7 +73,16 @@
     @include border-radius(3%);
   }
 
-
+  .mainpic {
+     position: absolute;
+    left: 15;
+    bottom: 15;
+    width: 580px;
+    display: block;
+    margin-top:160px;
+    margin-left: 5px;
+    @include border-radius(3%);
+  }
 
 }
 
