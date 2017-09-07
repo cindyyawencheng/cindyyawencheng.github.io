@@ -1,4 +1,4 @@
-# Say hi!
+# Say hi.
 
 <br><br>
 Richard Wagner-Str. 1 <br>
