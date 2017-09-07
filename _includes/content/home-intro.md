@@ -1,5 +1,5 @@
 
-# [Cindy Cheng](/)
+# Cindy Cheng
 
 
 
