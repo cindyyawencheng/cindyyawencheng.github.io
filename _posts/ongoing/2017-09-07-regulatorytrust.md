@@ -12,7 +12,7 @@ As food safety problems continue to proliferate world-wide, numerous studies hav
 
 > This is the fourth empirical chapter of my dissertation: *The Politics of Food Safety: Detection and Perceptions of Food Safety Problems in China*
  
- See [here](https://syncandshare.lrz.de/download/MlRLNTRERDI4eWlEMmVVRG5jQ0RC/paper_drafts/cindycheng_foodSafetyTrust_draft.pdf?inline) for a draft veresion.
+ See [here](https://syncandshare.lrz.de/dl/fiT1oj5dnjTU3JPiVeyerTLV/cindycheng_foodSafetyTrust_draft.pdf?inline) for a draft version.
 
 <br>
 <br>
