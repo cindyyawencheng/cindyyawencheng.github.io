@@ -1,0 +1,43 @@
+# Setup
+title:               Cindy Cheng
+tagline:             Political Scientist
+url:                 http://localhost:4000
+analytics_id:        UA-53335201-2
+
+# About/contact
+author:
+  name:                Cindy Cheng
+  email:               "cindy.cheng@hfp.tum.de" # email here 
+  avatar:              img/profile.jpg 
+  profile-pic:         img/profile.jpg
+
+
+
+# Build settings
+markdown:            kramdown
+permalink:           /:title
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+
+collections:
+  category:
+    output: true
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: "" 
+      type: "posts" 
+    values:
+      layout: "post"
+      author: Gabriel Utterson
+  -
+    scope:
+      path: "" 
+      type: "pages" 
+    values:
+      layout: "post"
+      

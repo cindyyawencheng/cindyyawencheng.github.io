@@ -1,0 +1,102 @@
+---
+layout: default
+title: Home
+type: Home 
+header: none 
+footer: none
+---
+
+<div class="home">
+
+  <div class="mini-intro">
+    {% capture home-intro %}
+      {% include content/home-intro.md %}
+    {% endcapture %}
+    {{ home-intro | markdownify }}
+  </div>
+
+  <ul class="accordion-tabs">
+   <!--  <li class="tab-header-and-content">
+      <a href="#" id="trigger-form" class="tab-aside-link is-active">Newsletter</a>
+      <div class="tab-aside-content">
+     
+      </div>
+    </li>--> 
+
+    <li class="tab-header-and-content">
+      <a href="#" class="tab-link">Home </a>
+      <div class="tab-content"> 
+        {% capture home-home %}
+          {% include content/home-home.md %}
+        {% endcapture %}
+        {{ home-home | markdownify }}
+      </div>
+    </li>
+    
+    <li class="tab-header-and-content">
+      <a href="#" class="tab-link">Research</a>
+      <div class="tab-content featured-posts">
+          <h2> Published Work </h2>
+           <br>
+          {% for post in site.categories.published limit: 5 %}
+          <article class="post">
+            <h3 class="post-title">
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                {{ post.title }}
+              </a>
+            </h3>
+          </article>
+          {% endfor %}
+          <br>
+           <br>
+          <h2> Ongoing  Projects </h2>
+           <br>
+            {% for post in site.categories.ongoing limit: 5 %}
+          <article class="post">
+            <h3 class="post-title">
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                {{ post.title }}
+              </a>  
+            </h3>
+          </article>
+          {% endfor %}
+      </div>
+    </li>
+
+    <li class="tab-header-and-content">
+      <a href="#" class="tab-link">C.V.</a>
+      <div class="tab-content"> 
+        {% capture home-cv %}
+          {% include content/home-cv.md %}
+        {% endcapture %}
+        {{ home-cv | markdownify }}
+      </div>
+    </li>
+
+    <li class="tab-header-and-content">
+      <a href="#" class="tab-link">About</a>
+      <div class="tab-content featured-posts">
+         <img class="profilepic" src="{{site.author.profile-pic}}" alt = 'Profile Picture'>
+        {% capture home-about %}{% include content/home-about.md %}{% endcapture %}
+        {{ home-about | markdownify }}
+      </div>
+    </li>
+
+
+    <li class="tab-header-and-content">
+      <a href="#" class="tab-link">Contact</a>
+      <div class="tab-content featured-posts">
+       <img class="contactpic" src="img/DSC_3293.jpg" alt="your-photo" align= 'right' height = 280>
+        {% capture home-contact %}{% include content/home-contact.md %}{% endcapture %}
+        {{ home-contact | markdownify }}
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+
+
+
+
+
