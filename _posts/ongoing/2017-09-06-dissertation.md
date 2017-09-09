@@ -1,5 +1,5 @@
 ---
-title: <i> Book Project </i>y&#58; The Politics of Food Safety&#58; Detection and Perceptions of Food Safety Problems in China
+title: <i> Book Project </i>&#58; The Politics of Food Safety&#58; Detection and Perceptions of Food Safety Problems in China
 layout: post
 category: ongoing
 ---
