@@ -12,7 +12,7 @@ While the existing literature shows that bilateral donors primarily allocate aid
 
 > This article is co-authored with Shahryar Minhas and is currently under review.  
  
-
+See [here](https://syncandshare.lrz.de/dl/fiHuQEQPuEZTpARRS5h9Tddy/cheng_minhas_keepingEnemiesClose.pdf?inline) for the manuscript.
 
 <br>
 <br>
