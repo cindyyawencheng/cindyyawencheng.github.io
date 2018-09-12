@@ -12,7 +12,7 @@ Unprecedented economic growth has led to a proliferation of regulatory policies 
 
 > This manuscript is a stand-alone article based on the fourth chapter of my dissertation, *The Politics of Food Safety: Detection and Perceptions of Food Safety Problems in China*.  
  
-See [here](https://syncandshare.lrz.de/dl/fiT1oj5dnjTU3JPiVeyerTLV/cindycheng_foodSafetyTrust_draft.pdf?inline) for the manuscript.
+Click [here](https://syncandshare.lrz.de/dl/fiT1oj5dnjTU3JPiVeyerTLV/cindycheng_foodSafetyTrust_draft.pdf?inline) to download the manuscript.
 
 <br>
 <br>

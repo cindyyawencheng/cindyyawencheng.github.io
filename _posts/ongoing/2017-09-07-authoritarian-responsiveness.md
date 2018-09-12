@@ -12,7 +12,7 @@ Despite the success of many authoritarian regimes in staving off democratic tran
 
 > This is the third empirical chapter of my dissertation: *The Politics of Food Safety: Detection and Perceptions of Food Safety Problems in China*
  
-See [here](https://syncandshare.lrz.de/dl/fiAaNGgiEpEq3BPY4AaemkNT/cindycheng_gResp_draft.pdf?inline) for a draft version of the paper.
+Click [here](https://syncandshare.lrz.de/dl/fiAaNGgiEpEq3BPY4AaemkNT/cindycheng_gResp_draft.pdf?inline) to download a draft version of the paper.
 
 
 <br>
