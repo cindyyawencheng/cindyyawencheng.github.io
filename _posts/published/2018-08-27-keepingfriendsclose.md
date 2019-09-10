@@ -1,7 +1,7 @@
 ---
 title: Keeping Friends Close, But Enemies Closer&#58; Foreign Aid Responses to Natural Disasters
 layout: post
-category: ongoing
+category: published
 ---
 
 
