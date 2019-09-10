@@ -1,7 +1,7 @@
 ---
 title: Getting a Seat at the International Health Table&#58; A Case Study Comparison of China and Vietnam
 layout: post
-category: ongoing
+category: published
 ---
 
 
