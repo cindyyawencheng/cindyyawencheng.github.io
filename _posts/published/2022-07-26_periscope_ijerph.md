@@ -1,5 +1,5 @@
 ---
-title: A New Interactive Tool to Visualize and Analyze COVID-19 Data, the
+title: A New Interactive Tool to Visualize and Analyze COVID-19 Data | the
 PERISCOPE Atlas.
 layout: post
 category: published

@@ -1,5 +1,5 @@
 ---
-title: The PERISCOPE Data Atlas A Demonstration of Release v1. 2
+title: The PERISCOPE Data Atlas | A Demonstration of Release v1. 2
 layout: post
 category: published
 ---
