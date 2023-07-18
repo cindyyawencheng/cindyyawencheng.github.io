@@ -3,6 +3,6 @@
 
 
 
-Postdoctoral Research Fellow,  Political Science<br>
+Political Scientist and Data Scientist <br>
 <br>
 <br>
