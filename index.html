@@ -24,16 +24,16 @@ footer: none
       </div>
     </li>--> 
 
+
     <li class="tab-header-and-content">
-      <a href="#" class="tab-link">Home</a>
-      <div class="tab-content featured-posts"> 
-        {% capture home-home %}
-          {% include content/home-home.md %}
-        {% endcapture %}
-        <!-- <img class="mainpic" src="{{ site.baseurl }}/img/IMG_5786_small.jpg" alt="your-photo" > --> 
-        {{ home-home | markdownify }}
+      <a href="#" class="tab-link">About</a>
+      <div class="tab-content featured-posts">
+         <img class="profilepic" src="{{site.author.profile-pic}}" alt = 'Profile Picture'>
+        {% capture home-about %}{% include content/home-about.md %}{% endcapture %}
+        {{ home-about | markdownify }}
       </div>
     </li>
+
 
     <li class="tab-header-and-content">
       <a href="#" class="tab-link">Research</a>
@@ -89,15 +89,6 @@ footer: none
           {% include content/home-cv.md %}
         {% endcapture %}
         {{ home-cv | markdownify }}
-      </div>
-    </li>
-
-    <li class="tab-header-and-content">
-      <a href="#" class="tab-link">About</a>
-      <div class="tab-content featured-posts">
-         <img class="profilepic" src="{{site.author.profile-pic}}" alt = 'Profile Picture'>
-        {% capture home-about %}{% include content/home-about.md %}{% endcapture %}
-        {{ home-about | markdownify }}
       </div>
     </li>
 
