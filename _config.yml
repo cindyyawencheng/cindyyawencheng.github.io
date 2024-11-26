@@ -31,7 +31,7 @@ github_username: cindyyawencheng
 
 
 # Build settings
-theme: bay_jekyll_theme
+remote_theme: bay_jekyll_theme
 markdown: kramdown
 sass:
     style: :compressed
