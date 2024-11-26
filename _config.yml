@@ -24,7 +24,7 @@ email: ccheng623@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Researcher and data scientist interested in forwarding insights about crisis politics
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cindyyawencheng.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cindyyawencheng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 og_image: assets/img/profile.jpg
 github_username: cindyyawencheng
 
