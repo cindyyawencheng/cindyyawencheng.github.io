@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.3.4"
+gem "jekyll", "~> 4.0.0"
 
 gem "bay_jekyll_theme"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
