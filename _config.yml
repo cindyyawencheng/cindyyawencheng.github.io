@@ -31,11 +31,14 @@ github_username: cindyyawencheng
 
 
 # Build settings
-remote_theme: eliottvincent/bay
+#remote_theme: eliottvincent/bay
+theme: bay_jekyll_theme
 markdown: kramdown
 sass:
     style: :compressed
 plugins:
+  - jekyll-include-cache
+  - gemfile
   - jekyll-feed
 
 header: 
